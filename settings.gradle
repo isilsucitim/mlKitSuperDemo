@@ -1,0 +1,3 @@
+include ':mlkit'
+include ':app'
+rootProject.name = "MLKitProject"

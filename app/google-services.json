@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004451718277",
+    "firebase_url": "https://mlkitforhuawei.firebaseio.com",
+    "project_id": "mlkitforhuawei",
+    "storage_bucket": "mlkitforhuawei.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004451718277:android:b44be9378bdf8115ae35ec",
+        "android_client_info": {
+          "package_name": "com.huawei.mlkitproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004451718277-9bi2pfgrk5sk2f9mn0ok4vrifatoos0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHM55cq0fWPVv6oUQLb_-4lqq71JRjPxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004451718277-9bi2pfgrk5sk2f9mn0ok4vrifatoos0m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
